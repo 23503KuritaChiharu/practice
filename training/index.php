@@ -13,5 +13,11 @@
     </head>
 
     <body>
+        <div class="position-absolute h-100 w-100 m-0 d-flex align-items-center justify-content-center">
+            <div class="btn">
+                <a href="#" class="btn btn-info btn-lg btn-block" role="button">記録する</a>
+                <a href="#" class="btn btn-info btn-lg btn-block mt-3" role="button">記録をみる</a>
+            </div>
+        </div>
     </body>
 </html>
